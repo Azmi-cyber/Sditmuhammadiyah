@@ -6,7 +6,7 @@ Landing page satu halaman (single-file HTML) untuk SDIT Muhammadiyah Paya Mabar,
 ## Struktur File
 
 ```
-sdit-muhammadiyah-paya-mabar.html   # halaman utama (HTML + CSS + JS dalam satu file)
+sditmuhammadiyah.vercel.app   # halaman utama (HTML + CSS + JS dalam satu file)
 README.md                           # dokumen ini
 ```
 
