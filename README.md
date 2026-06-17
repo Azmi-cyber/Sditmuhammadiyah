@@ -10,12 +10,6 @@ index.html.html   # halaman utama (HTML + CSS + JS dalam satu file)
 README.md                           # dokumen ini
 ```
 
-## Cara Menjalankan
-
-Tidak butuh server atau instalasi apa pun. Cukup buka file `sdit-muhammadiyah-paya-mabar.html` langsung di browser (klik dua kali atau drag ke tab browser).
-
-Kalau ingin hosting online, bisa upload file ini ke layanan static hosting gratis seperti Vercel, Netlify, atau GitHub Pages.
-
 ## Isi Halaman
 
 - **Beranda** — hero dengan judul, deskripsi singkat, kutipan filosofi pendidikan, dan statistik sekolah.
